@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Delete Your Account</title></head>
+  <body>
+    <h1>How to Delete Your Account</h1>
+    <p>To delete your account, follow these steps:</p>
+    <ol>
+      <li>Open the app</li>
+      <li>Tap the menu (☰) at the top left</li>
+      <li>Select "Delete Account"</li>
+      <li>Confirm your choice</li>
+    </ol>
+    <p>If you have trouble, email us at: support@example.com</p>
+  </body>
+</html>
